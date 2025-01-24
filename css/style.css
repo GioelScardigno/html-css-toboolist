@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(223, 234, 235);
+}
+
+.top-logo-section {
+    background-color: ;
+    padding-top: 5px;
+    background-color: white;
+}
+
+.top-logo {
+    width: 15%;
+    margin-left: 2%;
+}
