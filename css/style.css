@@ -120,3 +120,21 @@ main {
 p {
     display: inline-block;
 }
+
+.green-check {
+    color: lime;
+}
+
+.red-cross {
+    color: red;
+}
+
+.checkbox {
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 50%;
+    height: 17px;
+    width: 17px;
+    line-height: 17px;
+    text-align: center;
+}
